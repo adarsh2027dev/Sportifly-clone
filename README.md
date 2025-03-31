@@ -1,2 +1,8 @@
-# Sportifly-clone
-ChatGPT said: Sportifpy Clone is a sleek Spotify replica built with React, Tailwind CSS, and Redux. It features a responsive design, dynamic playlists, and mock Spotify API integration for a seamless music experience. Deployed on Vercel, it offers intuitive navigation and smooth streaming. Contributions are welcome!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
